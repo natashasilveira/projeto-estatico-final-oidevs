@@ -30,7 +30,7 @@
 
 ## :books: Como executar
 
-- Demo: ( <a href="https://vi-lcandido.github.io/projeto-estatico-final-oidevs/">Clique aqui</a>)
+- Demo: (<a href="https://natashasilveira.github.io/projeto-estatico-final-oidevs/">Clique aqui</a>)
 
 ## :hammer: Tecnologias
 
