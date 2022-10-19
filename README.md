@@ -30,14 +30,7 @@
 
 ## :books: Como executar
 
-Para visualizar siga os passos abaixo: 
-- Você deve ter o Git Bash instalado em seu computador (clique <a href="https://git-scm.com/download/win">aqui</a>);
-- Crie uma pasta em seu computador;
-- Abra o Git Bash dentro deste diretório;
-- Utilize o comando "git clone https://github.com/vi-lcandido/projeto-estatico-final-oidevs.git".
-- Comece a navegação pela página index.html
-
----
+- Demo: ( <a href="https://vi-lcandido.github.io/projeto-estatico-final-oidevs/">Clique aqui</a>)
 
 ## :hammer: Tecnologias
 
